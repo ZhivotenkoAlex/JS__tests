@@ -46,3 +46,6 @@ if (totalSpent < 100) {
 let message = `${status}, скидка ${discount}%`;
 console.log(message);
 console.log(`Оформляем заказ на сумму ${payment} со скидкой ${discount}%`);
+
+
+// done

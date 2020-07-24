@@ -18,3 +18,5 @@ invoice <= stock ? message = "Заказ оформлен, с вами свяж�
 
 
 console.log(message);
+
+// done

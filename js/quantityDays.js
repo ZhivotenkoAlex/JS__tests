@@ -8,3 +8,5 @@ const days = insert - (weeks * 7);
 
 
 console.log(`${weeks} недель и ${days} дней`)
+
+// done

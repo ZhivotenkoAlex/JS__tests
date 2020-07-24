@@ -3,3 +3,5 @@
 
 let number = prompt("Введите число от 1 до 10")
 number >= 1 && number <= 10 ? console.log("Вы ввели правильное число") : console.log("Вы ввели неверное число");
+
+// done

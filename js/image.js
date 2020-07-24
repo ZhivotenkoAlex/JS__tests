@@ -3,3 +3,5 @@
 const width = prompt("Введите ширину изображения");
 const heigth = prompt("Введите длину изображения");
 width > heigth ? console.log("У изображения альбомная ориентация") : console.log("У изображения портретная ориентация");
+
+// done

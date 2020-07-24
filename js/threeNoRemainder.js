@@ -4,3 +4,5 @@ const dividend = 100;
 const divider = 3;
 
 console.log(Math.floor(dividend / divider));
+
+// done

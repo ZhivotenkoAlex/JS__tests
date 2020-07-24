@@ -21,3 +21,5 @@ const payment = 10000;
 console.log(`Общая стоимость заказа ${payment} кредитов. Проверяем кол-во доступных средств на счету`);
 const result = balance >= payment ? console.log(`На счету осталось ${balance - payment} кредитов`) : console.log('На счету недостаточно средств для проведения операции!');
 console.log("Операция завершена")
+
+// done

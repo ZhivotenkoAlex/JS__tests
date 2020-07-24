@@ -25,3 +25,5 @@ console.log(firstMessage);
 
 console.log(secondMessage);
 // 'Выбран «Генератор защитного поля», цена за штуку 2000 кредитов'
+
+// done

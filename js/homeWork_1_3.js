@@ -31,3 +31,5 @@ if (userPassword == ADMIN_PASSWORD) {
     message = ACCESS_DENIED;
 }
 console.log(message);
+
+// done

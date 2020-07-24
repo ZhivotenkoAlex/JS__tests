@@ -33,3 +33,5 @@ if (orderPieces === null) {
 } else { message = `Вы купили ${orderPieces} дроидов, на счету осталось ${ balanceСredit } кредитов`; }
 
 console.log(message);
+
+// done

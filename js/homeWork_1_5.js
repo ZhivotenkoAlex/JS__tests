@@ -22,7 +22,7 @@
 // Индия - 80 кредитов
 // Ямайка - 120 кредитов
 
-let countryName = "Чили";
+let countryName = "Австралия";
 
 const CANCELED_BY_USER = 'Отменено пользователем!';
 const NO_DELIVERY = 'В выбранную страну доставка недоступна.';
@@ -77,3 +77,6 @@ console.log(message);
 // то значение message будет равно
 // 'В выбранную страну доставка недоступна.'
 // console.log(message)
+
+
+// done
