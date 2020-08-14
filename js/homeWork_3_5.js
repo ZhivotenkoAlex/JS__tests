@@ -18,11 +18,6 @@ const products = [
 function getAllPropValues(array, prop) {
     'use strict';
     let propValues = [];
-    // Write code under this line 
-    // if (Object.keys.length === 0) {
-    //     return propValues = [];
-    // }
-
 
     for (const product of products) {
         if (product[prop] === undefined) {
